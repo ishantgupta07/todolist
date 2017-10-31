@@ -1,0 +1,73 @@
+#header{
+    text-align: center;
+    font-size: medium;
+    font-style: italic;
+    background-color: cornsilk;
+
+}
+#bodyfile{
+    background-color: aliceblue;
+}
+.abc{
+    background-color: aliceblue;
+}
+.update{
+    height: 10%;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: darkkhaki;
+
+}
+.del{
+    height: 10%;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: red;
+}
+.mark{
+    height: 10%;
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aqua;
+}
+.col{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+
+
+}
+.col1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-decoration: line-through;
+    color: darkslategray;
+    text-decoration-color: red;
+}
+.col_del{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+
+}
+.col_update{
+     padding-left: 20px;
+     padding-right: 20px;
+    padding-bottom: 10px;
+ }
+.col_mark{
+      padding-left: 20px;
+      padding-right: 20px;
+    padding-bottom: 10px;
+  }
+#buttn{
+    height: 10%;
+    width: 15%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: darkkhaki;
+}
